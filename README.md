@@ -10,7 +10,7 @@ Also, creates a folder named "diff" and put the results in separated files insid
 
 How to use:
 
-```chmod +x run.sh```
+```chmod +x ddiff.sh```
 
 Arguments: a/origin/branch, for example, development
 
